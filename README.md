@@ -1,7 +1,7 @@
 # Landing-page
 
 ## Descrição
-Projeto desenvolvido com intuito de fazer um site real para práticar minhas habilidades e ganhar experiência.
+Projeto desenvolvido com intuito de fazer um site real para práticar minhas habilidades em Bootstrap e Javascript, além de ganhar experiência.
 
 ### Link de produção: https://landing-page-xi-orpin.vercel.app/
 
